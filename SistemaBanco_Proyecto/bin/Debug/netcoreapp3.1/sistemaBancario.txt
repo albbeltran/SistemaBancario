@@ -1,0 +1,4 @@
+ID Nombre Tipo_Cuenta Saldo_Actual Saldo_Maximo Movimientos Inversion
+-1 -1 -1 -1 -1 -1 -1
+10 Lucas credito 10 300 8 100
+-1 -1 -1 -1 -1 -1 -1

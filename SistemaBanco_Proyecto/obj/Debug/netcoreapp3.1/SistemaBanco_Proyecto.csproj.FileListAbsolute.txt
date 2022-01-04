@@ -1,0 +1,14 @@
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\bin\Debug\netcoreapp3.1\SistemaBanco_Proyecto.exe
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\bin\Debug\netcoreapp3.1\SistemaBanco_Proyecto.deps.json
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\bin\Debug\netcoreapp3.1\SistemaBanco_Proyecto.runtimeconfig.json
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\bin\Debug\netcoreapp3.1\SistemaBanco_Proyecto.runtimeconfig.dev.json
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\bin\Debug\netcoreapp3.1\SistemaBanco_Proyecto.dll
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\bin\Debug\netcoreapp3.1\SistemaBanco_Proyecto.pdb
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\obj\Debug\netcoreapp3.1\SistemaBanco_Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\obj\Debug\netcoreapp3.1\SistemaBanco_Proyecto.AssemblyInfoInputs.cache
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\obj\Debug\netcoreapp3.1\SistemaBanco_Proyecto.AssemblyInfo.cs
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\obj\Debug\netcoreapp3.1\SistemaBanco_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\obj\Debug\netcoreapp3.1\SistemaBanco_Proyecto.dll
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\obj\Debug\netcoreapp3.1\SistemaBanco_Proyecto.pdb
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\obj\Debug\netcoreapp3.1\SistemaBanco_Proyecto.genruntimeconfig.cache
+C:\Users\BetoB\source\repos\SistemaBanco_Proyecto\SistemaBanco_Proyecto\obj\Debug\netcoreapp3.1\SistemaBanco_Proyecto.csproj.AssemblyReference.cache

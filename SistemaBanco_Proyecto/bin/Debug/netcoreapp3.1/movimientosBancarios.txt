@@ -1,0 +1,30 @@
+ID Nombre Tipo_Cuenta Saldo_Actual Saldo_Maximo Movimientos Inversion
+20 ALTA DE CUENTA_Debito
+20 Deposito_200
+10 ALTA DE CUENTA_Credito
+10 Retiro_70
+10 Deposito_20
+10 Compra_10_MERCADOLIBRE
+10 actualizacionLimite_100
+10 Retiro_10
+10 BAJA DE CUENTA
+10 ALTA DE CUENTA_credito
+10 Deposito_100
+10 Compra_50_AMAZON
+10 Retiro_10
+10 actualizacionLimite_700
+10 actualizacionLimite_100
+10 actualizacionLimite_300
+10 Inversion_30
+10 Deposito_100
+10 Inversion_100
+10 Deposito_100
+10 Inversion_100
+100 ALTA DE CUENTA_credito
+100 Deposito_500
+100 Inversion_300
+100 Compra_150_AMAZON
+100 actualizacionLimite_2000
+100 Deposito_1500
+100 Retiro_1550
+100 BAJA DE CUENTA
